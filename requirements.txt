@@ -1,0 +1,2 @@
+requests>=2.31
+redis>=5.0   # optional: only for the post-scale PING health check
